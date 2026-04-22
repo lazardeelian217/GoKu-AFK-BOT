@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "xddddd",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "leliu1.aternos.me",
-    "port": ,
+    "port": 52937,
     "version": "26.1.2"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": ""
+      "password": "leliu"
     },
     "anti-afk": {
       "enabled": true,

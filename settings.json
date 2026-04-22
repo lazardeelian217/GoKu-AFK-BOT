@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "leliu1.aternos.me",
+    "ip": "mudfish.aternos.host:52937",
     "port": 52937,
-    "version": "26.1.2"
+    "version": "26.1.1"
   },
   "position": {
     "enabled": true,

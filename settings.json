@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "leliu1.aternos.me:52937",
+    "ip": "leliu1.aternos.me",
     "port": 52937,
-    "version": "26.1.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
